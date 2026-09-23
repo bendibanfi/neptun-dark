@@ -1,7 +1,9 @@
 // ==UserScript==
 // @name         Neptun Dark Mode
 // @namespace    http://tampermonkey.net/
-// @version      1.7.3
+// @description  Adj hozzá sötét módot a Neptunodhoz!
+// @downloadURL  https://github.com/bendibanfi/neptun-dark/releases/latest/download/neptun-dark.user.js
+// @version      1.7.4
 // @author       bbanfi
 // @include      https://*neptun*/*hallgato*/*
 // @include      https://*neptun*/*Hallgatoi*/*
